@@ -1,4 +1,4 @@
-"""A UI to smooth animation curves along the selected channels in maya
+"""A UI to smooth animation curves along the selected channels in maya.
 
 Usage : Run the script, you will get the UI.
 		The UI provides us with two options, low pass and high pass.
